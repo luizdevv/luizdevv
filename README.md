@@ -46,6 +46,6 @@ Hey there! My name is **Luiz Gustavo**, I'm a **Software Developer** and i love 
 
 <br clear="both">
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6ft5zss5uszuqz4jsy0w4om9z&count=2)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6ft5zss5uszuqz4jsy0w4om9z&count=1)
 
 ###
