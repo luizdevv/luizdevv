@@ -12,7 +12,7 @@ Hey there! My name is **Luiz Gustavo**, I'm a **Software Developer** and i love 
 
 ###
 
-<img align="right" height="200" src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-277.gif"  />
+<img align="right" height="200" src="https://media1.giphy.com/media/c7SEvQUfAauEhvmlVb/giphy.gif?cid=ecf05e47f4aeoqla27pbjgmmh04vuhkvrc0q4f05p61epf9y&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
