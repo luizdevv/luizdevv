@@ -17,7 +17,7 @@
 
 <br>
 
-- A passionate Back-end development
+- Passionate about Back-end development
 - Currently learning Nest.js
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/luizdev)
 
